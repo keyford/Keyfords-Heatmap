@@ -1,2 +1,5 @@
 # Bank Screenshot
-screenshot your bank
+
+Screenshot your bank
+
+Press the button
